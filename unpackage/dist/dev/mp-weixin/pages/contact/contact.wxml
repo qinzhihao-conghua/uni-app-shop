@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/icon/cart-active.png" mode></image><view class="info"><view data-event-opts="{{[['tap',[['call']]]]}}" class="phone" bindtap="__e">电话：13456789888（点击拨打）</view><view class="addr">地址:南宁市</view></view><map class="map" latitude="{{latitude}}" longitude="{{longitude}}" markers="{{markers}}"></map></view>
